@@ -1,0 +1,14 @@
+h1 {color: darkgreen;
+    font-size: 200%;}
+
+p {font-family: "comicsans";
+   text-indent: 20px;
+   margin-left: 10px;}
+
+#content {background-color: lightblue;
+          width: 500px;
+          min-height: 300px;
+          padding: 10px;
+          margin: 10px;
+          border: dotted 1px black;
+          font-size: 20px;}
